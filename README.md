@@ -1,3 +1,6 @@
+Modified version of shoreditch theme for CAB/OCP
+path : /var/www/html/drp/sites/default/files/sites/default/files/civicrm/ext
+
 # org.civicrm.shoreditch (developmental)
 
 The "Shoreditch" extension is a theme for CiviCRM based on a contemporary [flat design](https://en.wikipedia.org/wiki/Flat_design) and
